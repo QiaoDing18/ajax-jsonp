@@ -142,7 +142,7 @@ var showMessageHandle = {
 				method : 'get',
 				url : "http://api.jisuapi.com/weather/query",
 				data : {
-					appkey :  '0cd959d1554aacba',
+					appkey :  '',
 					city : cityName
 				},
 				dataType : 'jsonp',
